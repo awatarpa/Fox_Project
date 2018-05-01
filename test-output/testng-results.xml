@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="26" passed="26">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="244575" started-at="2018-05-01T01:43:01Z" finished-at="2018-05-01T01:47:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="244575" started-at="2018-05-01T01:43:01Z" finished-at="2018-05-01T01:47:05Z">
+      <class name="com.webdriver.tests.HomePageTest">
+        <test-method status="PASS" signature="initialize()[pri:1, instance:com.webdriver.tests.HomePageTest@4883b407]" name="initialize" duration-ms="38347" started-at="2018-05-01T01:43:01Z" finished-at="2018-05-01T01:43:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="updateDataMovies()[pri:2, instance:com.webdriver.tests.HomePageTest@4883b407]" name="updateDataMovies" duration-ms="1115" started-at="2018-05-01T01:43:39Z" finished-at="2018-05-01T01:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateDataMovies -->
+        <test-method status="PASS" signature="fxPage()[pri:3, instance:com.webdriver.tests.HomePageTest@4883b407]" name="fxPage" duration-ms="671" started-at="2018-05-01T01:43:40Z" finished-at="2018-05-01T01:43:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxPage -->
+        <test-method status="PASS" signature="testDataFx(java.lang.String)[pri:4, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFx" duration-ms="460" started-at="2018-05-01T01:43:41Z" data-provider="getData" finished-at="2018-05-01T01:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Meghan Markle: An American Princ…]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFx -->
+        <test-method status="PASS" signature="testDataFx(java.lang.String)[pri:4, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFx" duration-ms="250" started-at="2018-05-01T01:43:42Z" data-provider="getData" finished-at="2018-05-01T01:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24 Hours To Hell & Back]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFx -->
+        <test-method status="PASS" signature="testDataFx(java.lang.String)[pri:4, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFx" duration-ms="230" started-at="2018-05-01T01:43:42Z" data-provider="getData" finished-at="2018-05-01T01:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hypnotize Me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFx -->
+        <test-method status="PASS" signature="testDataFx(java.lang.String)[pri:4, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFx" duration-ms="230" started-at="2018-05-01T01:43:42Z" data-provider="getData" finished-at="2018-05-01T01:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[So You Think You Can Dance]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFx -->
+        <test-method status="PASS" signature="duplicateFx()[pri:5, instance:com.webdriver.tests.HomePageTest@4883b407]" name="duplicateFx" duration-ms="0" started-at="2018-05-01T01:43:42Z" finished-at="2018-05-01T01:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateFx -->
+        <test-method status="PASS" signature="foxSportsPage()[pri:6, instance:com.webdriver.tests.HomePageTest@4883b407]" name="foxSportsPage" duration-ms="460" started-at="2018-05-01T01:43:42Z" finished-at="2018-05-01T01:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foxSportsPage -->
+        <test-method status="PASS" signature="testDataFoxSports(java.lang.String)[pri:7, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFoxSports" duration-ms="70" started-at="2018-05-01T01:43:43Z" data-provider="getData" finished-at="2018-05-01T01:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Meghan Markle: An American Princ…]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFoxSports -->
+        <test-method status="PASS" signature="testDataFoxSports(java.lang.String)[pri:7, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFoxSports" duration-ms="110" started-at="2018-05-01T01:43:43Z" data-provider="getData" finished-at="2018-05-01T01:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24 Hours To Hell & Back]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFoxSports -->
+        <test-method status="PASS" signature="testDataFoxSports(java.lang.String)[pri:7, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFoxSports" duration-ms="80" started-at="2018-05-01T01:43:43Z" data-provider="getData" finished-at="2018-05-01T01:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hypnotize Me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFoxSports -->
+        <test-method status="PASS" signature="testDataFoxSports(java.lang.String)[pri:7, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataFoxSports" duration-ms="60" started-at="2018-05-01T01:43:43Z" data-provider="getData" finished-at="2018-05-01T01:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[So You Think You Can Dance]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFoxSports -->
+        <test-method status="PASS" signature="nationalGeographicPage()[pri:9, instance:com.webdriver.tests.HomePageTest@4883b407]" name="nationalGeographicPage" duration-ms="542" started-at="2018-05-01T01:43:43Z" finished-at="2018-05-01T01:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nationalGeographicPage -->
+        <test-method status="PASS" signature="duplicateFoxSports()[pri:8, instance:com.webdriver.tests.HomePageTest@4883b407]" name="duplicateFoxSports" duration-ms="0" started-at="2018-05-01T01:43:43Z" finished-at="2018-05-01T01:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateFoxSports -->
+        <test-method status="PASS" signature="testDataNationalGeographic(java.lang.String)[pri:10, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataNationalGeographic" duration-ms="662" started-at="2018-05-01T01:43:44Z" data-provider="getData" finished-at="2018-05-01T01:43:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Meghan Markle: An American Princ…]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataNationalGeographic -->
+        <test-method status="PASS" signature="testDataNationalGeographic(java.lang.String)[pri:10, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataNationalGeographic" duration-ms="510" started-at="2018-05-01T01:43:44Z" data-provider="getData" finished-at="2018-05-01T01:43:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24 Hours To Hell & Back]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataNationalGeographic -->
+        <test-method status="PASS" signature="testDataNationalGeographic(java.lang.String)[pri:10, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataNationalGeographic" duration-ms="567" started-at="2018-05-01T01:43:45Z" data-provider="getData" finished-at="2018-05-01T01:43:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hypnotize Me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataNationalGeographic -->
+        <test-method status="PASS" signature="testDataNationalGeographic(java.lang.String)[pri:10, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataNationalGeographic" duration-ms="770" started-at="2018-05-01T01:43:45Z" data-provider="getData" finished-at="2018-05-01T01:43:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[So You Think You Can Dance]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataNationalGeographic -->
+        <test-method status="PASS" signature="allShowsPage()[pri:12, instance:com.webdriver.tests.HomePageTest@4883b407]" name="allShowsPage" duration-ms="189330" started-at="2018-05-01T01:43:46Z" finished-at="2018-05-01T01:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allShowsPage -->
+        <test-method status="PASS" signature="duplicateNationalGeographic()[pri:11, instance:com.webdriver.tests.HomePageTest@4883b407]" name="duplicateNationalGeographic" duration-ms="0" started-at="2018-05-01T01:43:46Z" finished-at="2018-05-01T01:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateNationalGeographic -->
+        <test-method status="PASS" signature="testDataAllShows(java.lang.String)[pri:13, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataAllShows" duration-ms="2570" started-at="2018-05-01T01:46:56Z" data-provider="getData" finished-at="2018-05-01T01:46:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Meghan Markle: An American Princ…]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataAllShows -->
+        <test-method status="PASS" signature="testDataAllShows(java.lang.String)[pri:13, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataAllShows" duration-ms="2429" started-at="2018-05-01T01:46:58Z" data-provider="getData" finished-at="2018-05-01T01:47:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24 Hours To Hell & Back]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataAllShows -->
+        <test-method status="PASS" signature="testDataAllShows(java.lang.String)[pri:13, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataAllShows" duration-ms="2287" started-at="2018-05-01T01:47:01Z" data-provider="getData" finished-at="2018-05-01T01:47:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hypnotize Me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataAllShows -->
+        <test-method status="PASS" signature="testDataAllShows(java.lang.String)[pri:13, instance:com.webdriver.tests.HomePageTest@4883b407]" name="testDataAllShows" duration-ms="2502" started-at="2018-05-01T01:47:03Z" data-provider="getData" finished-at="2018-05-01T01:47:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[So You Think You Can Dance]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataAllShows -->
+        <test-method status="PASS" signature="duplicateAllShows()[pri:14, instance:com.webdriver.tests.HomePageTest@4883b407]" name="duplicateAllShows" duration-ms="60" started-at="2018-05-01T01:47:05Z" finished-at="2018-05-01T01:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateAllShows -->
+      </class> <!-- com.webdriver.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

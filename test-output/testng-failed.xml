@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.webdriver.tests.HomePageTest">
+        <methods>
+          <include name="testDataNationalGeographic" invocation-numbers="0 1 2 3"/>
+          <include name="nationalGeographicPage"/>
+          <include name="testDataAllShows" invocation-numbers="0 1 2 3"/>
+          <include name="testDataFoxSports" invocation-numbers="0 1 2 3"/>
+          <include name="updateDataMovies"/>
+          <include name="fxPage"/>
+          <include name="allShowsPage"/>
+          <include name="foxSportsPage"/>
+          <include name="initialize"/>
+          <include name="testDataFx" invocation-numbers="0 1 2 3"/>
+        </methods>
+      </class> <!-- com.webdriver.tests.HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
